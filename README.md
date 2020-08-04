@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Guilherme and I'm an iOS Engineer at [Stone](https://www.stone.com.br/).
+
 <!--
 **grsouza/grsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
