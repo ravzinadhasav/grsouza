@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-My name is Guilherme and I'm an iOS Engineer at [Stone](https://www.stone.com.br/).
-
-I'm currently working on some open source libraries like [ThreadSafe](https://github.com/grsouza/swift-threadsafe) and [ServiceLocator](https://github.com/grsouza/service-locator).
+Work in progress...
 
 📫 You can reach me at [guilherme@grds.dev](mailto:guilherme@grds.dev)
 
 <!--
+My name is Guilherme and I'm an iOS Engineer at [Stone](https://www.stone.com.br/).
+
+I'm currently working on some open source libraries like [ThreadSafe](https://github.com/grsouza/swift-threadsafe) and [ServiceLocator](https://github.com/grsouza/service-locator).
+
 **grsouza/grsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
