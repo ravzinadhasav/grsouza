@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-Work in progress...
-
-📫 You can reach me at [guilherme@grds.dev](mailto:guilherme@grds.dev)
+- 🛠 Building random stuffs at [@nativedevbr](https://github.com/nativedevbr)
+- 📫 You can reach me at [guilherme@grds.dev](mailto:guilherme@grds.dev)
 
 <!--
 My name is Guilherme and I'm an iOS Engineer at [Stone](https://www.stone.com.br/).
