@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🛠 Building random stuffs at [@nativedevbr](https://github.com/nativedevbr)
+I'm Guilherme, an iOS Engineer at [@alpacahq](https://github.com/alpacahq)
 
 <!--
 My name is Guilherme and I'm an iOS Engineer at [Stone](https://www.stone.com.br/).
