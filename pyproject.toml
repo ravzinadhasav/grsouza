@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Build AI-powered security tools. 50+ hands-on labs covering ML, LLMs, RAG, threat detection, DFIR, and red teaming. Includes Colab notebooks, Docker environment, and CTF challenges."
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
+# avoid re-reading the config on every call
