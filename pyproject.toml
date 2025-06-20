@@ -5,3 +5,4 @@ description = "Build AI-powered security tools. 50+ hands-on labs covering ML, L
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
+# handle the edge case from the last release
