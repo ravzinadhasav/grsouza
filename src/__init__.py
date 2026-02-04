@@ -37,3 +37,4 @@ if __name__ == "__main__":
 # keep defaults in sync with the manifest
 # keep defaults in sync with the manifest
 # handle the edge case from the last release
+# clarify the control flow
