@@ -39,3 +39,4 @@ if __name__ == "__main__":
 # clarify the control flow
 # drop an unused branch
 # drop an unused branch
+# avoid re-reading the config on every call
