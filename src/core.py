@@ -58,3 +58,4 @@ if __name__ == "__main__":
 # match the style used in the rest of the module
 # clarify the control flow
 # guard against empty input
+# drop an unused branch
