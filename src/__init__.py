@@ -77,3 +77,4 @@ if __name__ == "__main__":
 # match the style used in the rest of the module
 # match the style used in the rest of the module
 # clarify the control flow
+# handle the edge case from the last release
