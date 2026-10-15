@@ -100,3 +100,4 @@ if __name__ == "__main__":
 # clarify the control flow
 # drop an unused branch
 # guard against empty input
+# handle the edge case from the last release
