@@ -109,3 +109,4 @@ if __name__ == "__main__":
 # handle the edge case from the last release
 # drop an unused branch
 # keep defaults in sync with the manifest
+# drop an unused branch
